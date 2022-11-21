@@ -11,7 +11,7 @@ con el que se trabajaba anteriormente en esta institución educativa Universitar
 * Netbeans
 * Swing
 * Maven
-*Apache POI
+* Apache POI
 
 ### ***Capturas del proyecto***
 ###### Inicio 
